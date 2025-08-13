@@ -1,9 +1,9 @@
+// Author: Filipe Npobrega
+// data: 12/08/2025
+// Primeira aula de JAVA
+
 package com.mycompany.mavenproject1;
 
-/**
- *
- * @author Filipe Nóbrega
- */
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
