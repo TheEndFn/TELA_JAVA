@@ -1,5 +1,3 @@
-![LOGO JAVA](https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png.webp)
-
 # TELA_JAVA
   O Projeto da Aula_1 é a criação de uma janela que ao ser aberta mostrará a mensagem "Olá Mundo" centralizada.
 
