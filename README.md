@@ -1,4 +1,6 @@
 ![LOGO JAVA](https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png.webp)
 
 # TELA_JAVA
-Criando uma tela em java.
+  O Projeto da Aula_1 é a criação de uma janela que ao ser aberta mostrará a mensagem "Olá Mundo" centralizada.
+
+  O projeto da Aula2 é a criação de uma janela que ao clicar no botão "Abrir" irá abrir outra janela com meu nome centralizado.
